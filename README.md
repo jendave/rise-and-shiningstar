@@ -14,7 +14,7 @@ Well, I've got the solution for you: a quick and easy one-shot! Rise & Shiningst
 
 In terms of XP, this adventure allows you to complete one Vow and up to two Expeditions, as well as a chance to use multiple Connection Moves. There's also plenty of room for combat, or you can avoid or ignore it entirely.
 
-Within this game-ready adventure, you will find new foes, journal entries and roll tables.
+Within this game-ready adventure, you will find new foes, journal entries, items and rollable tables.
 
 An [Ironsworn:Starforged](https://tomkinpress.com/) Adventure Module by [Tavon Gatling](https://www.gatling.xyz/author/tavon/).
 
@@ -37,7 +37,7 @@ https://github.com/jendave/rise-and-shiningstar/releases/latest/download/module.
 * Open the `Rise & Shiningstar` compendium.
 * Open the `Rise & Shiningstar` adventure.
 * Click on `Import Adventure`.
-* New actors, rollable tables, and journal entries will be added to FoundryVTT.
+* New actors, items, rollable tables, and journal entries will be added to FoundryVTT.
 
 ## Credits
 
@@ -76,7 +76,7 @@ Please check out my other modules and resources for Ironsworn, Ironsworn: Starfo
 * [Token Action HUD Ironsworn](https://foundryvtt.com/packages/token-action-hud-ironsworn)
 * [VOID 1680 AM for FoundryVTT](https://foundryvtt.com/packages/void-1680-am)
 * [Ancient Wonders](https://foundryvtt.com/packages/ancient-wonders)
-* [Rise & Shiningstar](https://foundryvtt.com/packages/rise-and-shiningstar)
+* [Rise & Shiningstar - An Adventure for Ironsworn: Starforged](https://foundryvtt.com/packages/rise-and-shiningstar)
 * [Roll Table Importer](https://foundryvtt.com/packages/roll-table-importer)
 
 ### [Itch.io](https://jendave.itch.io/) Resources
