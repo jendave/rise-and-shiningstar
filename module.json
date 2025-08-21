@@ -1,0 +1,56 @@
+{
+  "id": "rise-and-shining-star",
+  "title": "Rise & Shining Star",
+    "description": "<p>An Adventure For Ironsworn: Starforged.</p><p>You are being drawn to a settlement named Shiningstar. You don't know much else about the settlement yet, but whatever draws you to it has made you swear a vow.</p><p></p><p>Created by <a href=\"https://www.gatling.xyz/author/tavon/\">Tavon Gatling</a>. Original adventure can be found <a href=\"https://www.gatling.xyz/rise-and-shiningstar/\">here</a>. The PDF can be purchased <a href=\"https://ko-fi.com/s/4917995151\">here</a>.</p>",
+  "version": "#{VERSION}#",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "authors": [
+    {
+      "name": "Tavon Gatling",
+      "url": "https://www.gatling.xyz/author/tavon/",
+      "flags": {}
+    },
+    {
+      "name": "David Y. Hudson",
+      "url": "https://jendave.itch.io/",
+      "discord": "jendave",
+      "flags": {}
+    }
+  ],
+  "flags": {
+    "canUpload": true
+  },
+  "packs": [
+    {
+      "name": "rise-and-shining-star",
+      "label": "Rise & Shiningstar",
+      "path": "packs/rise-and-shining-star",
+      "type": "Adventure",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "foundry-ironsworn",
+      "flags": {}
+    }
+  ],
+  "manifest": "#{MANIFEST}#",
+  "url": "#{URL}#",
+  "download": "#{DOWNLOAD}#",
+  "license": "https://raw.githubusercontent.com/jendave/rise-and-shiningstar/main/LICENSE",
+  "changelog": "https://raw.githubusercontent.com/jendave/rise-and-shiningstar/main/CHANGELOG.md",
+  "readme": "https://raw.githubusercontent.com/jendave/rise-and-shiningstar/main/README.md",
+  "bugs": "https://github.com/jendave/rise-and-shiningstar/issues",
+  "relationships": {
+    "systems": [
+      {
+        "id": "foundry-ironsworn",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  }
+}
