@@ -14,7 +14,7 @@ Well, I've got the solution for you: a quick and easy one-shot! Rise & Shiningst
 
 In terms of XP, this adventure allows you to complete one Vow and up to two Expeditions, as well as a chance to use multiple Connection Moves. There's also plenty of room for combat, or you can avoid or ignore it entirely.
 
-Within this game-ready adventure, you will find new foes, macros, journal entries and roll tables.
+Within this game-ready adventure, you will find new foes, journal entries and roll tables.
 
 An [Ironsworn:Starforged](https://tomkinpress.com/) Adventure Module by [Tavon Gatling](https://www.gatling.xyz/author/tavon/).
 
