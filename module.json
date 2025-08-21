@@ -1,7 +1,7 @@
 {
   "id": "rise-and-shining-star",
   "title": "Rise & Shining Star",
-    "description": "<p>An Adventure For Ironsworn: Starforged.</p><p>You are being drawn to a settlement named Shiningstar. You don't know much else about the settlement yet, but whatever draws you to it has made you swear a vow.</p><p></p><p>Created by <a href=\"https://www.gatling.xyz/author/tavon/\">Tavon Gatling</a>. Original adventure can be found <a href=\"https://www.gatling.xyz/rise-and-shiningstar/\">here</a>. The PDF can be purchased <a href=\"https://ko-fi.com/s/4917995151\">here</a>.</p>",
+  "description": "<p>An Adventure For Ironsworn: Starforged.</p><p>You are being drawn to a settlement named Shiningstar. You don't know much else about the settlement yet, but whatever draws you to it has made you swear a vow.</p><p></p><p>Created by <a href=\"https://www.gatling.xyz/author/tavon/\">Tavon Gatling</a>. Original adventure can be found <a href=\"https://www.gatling.xyz/rise-and-shiningstar/\">here</a>. The PDF can be purchased <a href=\"https://ko-fi.com/s/4917995151\">here</a>.</p>",
   "version": "#{VERSION}#",
   "compatibility": {
     "minimum": "13",
