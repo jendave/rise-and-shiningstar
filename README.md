@@ -41,9 +41,8 @@ https://github.com/jendave/rise-and-shiningstar/releases/latest/download/module.
 
 ## Credits
 
-[Rise & Shiningstar](https://www.gatling.xyz/rise-and-shiningstar/) by [Tavon Gatling](https://www.gatling.xyz/author/tavon/).
-
-Module macro code by David Hudson and licensed for use under the use under the [MIT license](https://opensource.org/license/mit/).
+* [Rise & Shiningstar](https://www.gatling.xyz/rise-and-shiningstar/) by [Tavon Gatling](https://www.gatling.xyz/author/tavon/) used with permission from the author.
+* Module code by David Hudson and licensed for use under the use under the [MIT license](https://opensource.org/license/mit/).
 
 ## Contact
 
