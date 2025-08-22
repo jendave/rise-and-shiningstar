@@ -5,6 +5,10 @@
 ![Foundry Version](https://img.shields.io/endpoint?url=https://foundryshields.com/version?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjendave%2Frise-and-shiningstar%2Fmain%2Fmodule.json)
 
 > You have been called to a settlement known as Shiningstar, whether to answer a distress call, find a missing person, or strange visions beckon you. Whatever the case, upon your arrival, you discover that Shiningstar—the settlement that focused on healing and life—has taken a turn for the worse.
+>
+> I must warn you, though. If you keep going, you're going to encounter death. Lots of it. None of it is pretty. Most of it is sad. It's what the kids these days call "nightmare fuel."
+>
+> And it will fight back.
 
 Ever need a quick adventure to introduce new players to [Ironsworn:Starforged](https://tomkinpress.com/)? Need something to drop into a current campaign to get things moving along?
 
