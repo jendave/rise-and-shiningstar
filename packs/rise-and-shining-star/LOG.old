@@ -1,15 +1,8 @@
-2025/08/20-21:11:37.550013 170c57000 Recovering log #4
-2025/08/20-21:11:37.550646 170c57000 Delete type=0 #4
-2025/08/20-21:11:37.550703 170c57000 Delete type=3 #2
-2025/08/20-21:26:52.417305 171d87000 Level-0 table #9: started
-2025/08/20-21:26:52.418851 171d87000 Level-0 table #9: 57336 bytes OK
-2025/08/20-21:26:52.419225 171d87000 Delete type=0 #7
-2025/08/20-21:26:52.420432 171d87000 Manual compaction at level-0 from '!adventures!zZI50ig6UYmSfDc0' @ 72057594037927935 : 1 .. '!adventures!zZI50ig6UYmSfDc0' @ 0 : 0; will stop at (end)
-2025/08/20-21:26:52.420464 171d87000 Manual compaction at level-1 from '!adventures!zZI50ig6UYmSfDc0' @ 72057594037927935 : 1 .. '!adventures!zZI50ig6UYmSfDc0' @ 0 : 0; will stop at '!adventures!zZI50ig6UYmSfDc0' @ 26 : 1
-2025/08/20-21:26:52.420469 171d87000 Compacting 1@1 + 1@2 files
-2025/08/20-21:26:52.421741 171d87000 Generated table #10@1: 1 keys, 28715 bytes
-2025/08/20-21:26:52.421755 171d87000 Compacted 1@1 + 1@2 files => 28715 bytes
-2025/08/20-21:26:52.421853 171d87000 compacted to: files[ 0 0 1 0 0 0 0 ]
-2025/08/20-21:26:52.421912 171d87000 Delete type=2 #5
-2025/08/20-21:26:52.422501 171d87000 Delete type=2 #9
-2025/08/20-21:26:52.425093 171d87000 Manual compaction at level-1 from '!adventures!zZI50ig6UYmSfDc0' @ 26 : 1 .. '!adventures!zZI50ig6UYmSfDc0' @ 0 : 0; will stop at (end)
+2025/08/21-20:05:44.909946 1705ff000 Recovering log #66
+2025/08/21-20:05:44.910479 1705ff000 Delete type=3 #64
+2025/08/21-20:05:44.910547 1705ff000 Delete type=0 #66
+2025/08/21-20:05:57.561674 171f3b000 Level-0 table #71: started
+2025/08/21-20:05:57.561700 171f3b000 Level-0 table #71: 0 bytes OK
+2025/08/21-20:05:57.561953 171f3b000 Delete type=0 #69
+2025/08/21-20:05:57.562041 171f3b000 Manual compaction at level-0 from '!adventures!zZI50ig6UYmSfDc0' @ 72057594037927935 : 1 .. '!adventures!zZI50ig6UYmSfDc0' @ 0 : 0; will stop at (end)
+2025/08/21-20:05:57.562088 171f3b000 Manual compaction at level-1 from '!adventures!zZI50ig6UYmSfDc0' @ 72057594037927935 : 1 .. '!adventures!zZI50ig6UYmSfDc0' @ 0 : 0; will stop at (end)
