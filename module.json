@@ -25,9 +25,9 @@
   },
   "packs": [
     {
-      "name": "rise-and-shining-star",
+      "name": "rise-and-shiningstar",
       "label": "Rise & Shiningstar",
-      "path": "packs/rise-and-shining-star",
+      "path": "packs/rise-and-shiningstar",
       "type": "Adventure",
       "ownership": {
         "PLAYER": "OBSERVER",

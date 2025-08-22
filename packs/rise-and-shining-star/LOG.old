@@ -1,8 +1,0 @@
-2025/08/21-20:05:44.909946 1705ff000 Recovering log #66
-2025/08/21-20:05:44.910479 1705ff000 Delete type=3 #64
-2025/08/21-20:05:44.910547 1705ff000 Delete type=0 #66
-2025/08/21-20:05:57.561674 171f3b000 Level-0 table #71: started
-2025/08/21-20:05:57.561700 171f3b000 Level-0 table #71: 0 bytes OK
-2025/08/21-20:05:57.561953 171f3b000 Delete type=0 #69
-2025/08/21-20:05:57.562041 171f3b000 Manual compaction at level-0 from '!adventures!zZI50ig6UYmSfDc0' @ 72057594037927935 : 1 .. '!adventures!zZI50ig6UYmSfDc0' @ 0 : 0; will stop at (end)
-2025/08/21-20:05:57.562088 171f3b000 Manual compaction at level-1 from '!adventures!zZI50ig6UYmSfDc0' @ 72057594037927935 : 1 .. '!adventures!zZI50ig6UYmSfDc0' @ 0 : 0; will stop at (end)
