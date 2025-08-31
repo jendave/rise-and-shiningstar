@@ -43,6 +43,10 @@ https://github.com/jendave/rise-and-shiningstar/releases/latest/download/module.
 * Click on `Import Adventure`.
 * New actors, items, rollable tables, and journal entries will be added to FoundryVTT.
 
+## Troubleshooting and Tips
+
+* If the *Rise & Shiningstar* scene has a broken thumbnail, right-click on the menu item and select `Generate Thumbnail Image`.
+
 ## Credits
 
 * [Rise & Shiningstar](https://www.gatling.xyz/rise-and-shiningstar/) by [Tavon Gatling](https://www.gatling.xyz/author/tavon/) used with permission from the author.

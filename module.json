@@ -37,6 +37,14 @@
       "flags": {}
     }
   ],
+    "packFolders": [
+    {
+      "name": "Rise & Shiningstar",
+      "packs": [
+        "rise-and-shiningstar"
+      ]
+    }
+  ],
   "manifest": "#{MANIFEST}#",
   "url": "#{URL}#",
   "download": "#{DOWNLOAD}#",
