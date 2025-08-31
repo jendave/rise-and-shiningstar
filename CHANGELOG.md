@@ -4,7 +4,8 @@
 
 ## [1.0.1](https://github.com/jendave/rise-and-shiningstar/blob/main/CHANGELOG.md) (2025-08-31)
 
-* Fix scene broken thumbnail.
+* Adventure compendium is now in a folder.
+* Added documentation to fix broken thumbnail.
 
 ## [1.0.0](https://github.com/jendave/rise-and-shiningstar/blob/main/CHANGELOG.md) (2025-08-21)
 
