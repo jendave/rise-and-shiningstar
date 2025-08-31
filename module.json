@@ -37,12 +37,10 @@
       "flags": {}
     }
   ],
-    "packFolders": [
+  "packFolders": [
     {
       "name": "Rise & Shiningstar",
-      "packs": [
-        "rise-and-shiningstar"
-      ]
+      "packs": ["rise-and-shiningstar"]
     }
   ],
   "manifest": "#{MANIFEST}#",
