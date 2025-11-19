@@ -2,10 +2,6 @@
 
 [Rise & Shiningstar - An Adventure for Ironsworn: Starforged](https://foundryvtt.com/packages/rise-and-shining-star)
 
-## [1.0.2](https://github.com/jendave/rise-and-shiningstar/blob/main/CHANGELOG.md) (2025-11-18)
-
-* Requires v13.
-
 ## [1.0.1](https://github.com/jendave/rise-and-shiningstar/blob/main/CHANGELOG.md) (2025-08-31)
 
 * Adventure compendium and scene are now in folders.
