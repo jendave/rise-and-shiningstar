@@ -8,7 +8,7 @@
 
 ## [1.0.2](https://github.com/jendave/rise-and-shiningstar/blob/main/CHANGELOG.md) (2026-02-26)
 
-* Verified for version v14.
+* Verified for Foundry v14.
 
 ## [1.0.1](https://github.com/jendave/rise-and-shiningstar/blob/main/CHANGELOG.md) (2025-08-31)
 
